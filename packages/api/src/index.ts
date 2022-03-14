@@ -1,4 +1,4 @@
-import express, { Request, Response, NextFunction } from "express"
+import express, { Request, Response } from "express"
 import { readFile } from "fs/promises"
 import { Color } from "@ryanprescott/favorite-color-demo-shared"
 
