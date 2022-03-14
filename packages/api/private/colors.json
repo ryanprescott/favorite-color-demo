@@ -1,0 +1,37 @@
+[
+    {
+        "name": "red",
+        "bgValue": "#FF0000",
+        "fgValue": "#FFFFFF"
+    },
+    {
+        "name": "orange",
+        "bgValue": "#FF6600",
+        "fgValue": "#FFFFFF"
+    },
+    {
+        "name": "yellow",
+        "bgValue": "#FFFF00",
+        "fgValue": "#000000"
+    },
+    {
+        "name": "green",
+        "bgValue": "#006600",
+        "fgValue": "#FFFFFF"
+    },
+    {
+        "name": "blue",
+        "bgValue": "#0000FF",
+        "fgValue": "#FFFFFF"
+    },
+    {
+        "name": "indigo",
+        "bgValue": "#2200CC",
+        "fgValue": "#FFFFFF"
+    },
+    {
+        "name": "violet",
+        "bgValue": "#6600FF",
+        "fgValue": "#FFFFFF"
+    }
+]
